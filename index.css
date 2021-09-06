@@ -8,33 +8,59 @@
 }
 
 .logo {
-    
+    position: relative;
+    left: 600px;
+    top: 100px;
 
 }
 
 .buttons {
-
+    position: relative;
+    left: 600px;
+    top: 130px;
 }
 
-.search {
+.button1 {
+    border: transparent;
+    border-radius: 5%;
+    padding: 10px;
+    margin: 5px;
+}
 
+.button2 {
+    border: transparent;
+    border-radius: 5%;
+    padding: 10px;
+    margin: 5px;
+    color: ;
+}
+
+.search1 {
+    border-radius: 100px;
+    position: relative;
+    left: 530px;
+    top: 110px;;
+    height: 30px;
+    border-color: lightgray;
 }
 
 .b-navbar {
     position: absolute; 
     bottom: 0;
     background-color: lightgrey;
+    
+    
 }
 .b-side2 {
-    float: right;
-    margin: 4px;
+    
 }
 
 #gmail {
     background: transparent;
     border: transparent;
     margin: 10px;
-    
+    left: 10px;
+    position: relative;
 }
 
 #store:hover, #gmail:hover, #about:hover, #images:hover, #adv:hover, #bus:hover, #hsw:hover, #pvc:hover, #tms:hover, #sts:hover{
@@ -46,6 +72,8 @@
     background: transparent;
     border: transparent;
     margin: 10px;
+    position: relative;
+    right: 15px;
 }
 
 #about {
