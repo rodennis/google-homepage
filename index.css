@@ -1,9 +1,18 @@
-.logo {
+.navbar {
 
 }
 
-.navbar {
+.left-side {
 
+
+}
+
+.right-side {
+    float: right;
+}
+
+.logo {
+`   
 }
 
 .buttons {
@@ -15,5 +24,13 @@
 }
 
 .b-navbar {
-    
+
+}
+
+.left-side2 {
+
+}
+
+.right-side2 {
+
 }
