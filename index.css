@@ -51,42 +51,15 @@
     
     
 }
-.b-side2 {
-    
-}
 
-#gmail {
+.hover-buttons {
     background: transparent;
     border: transparent;
     margin: 10px;
-    left: 10px;
-    position: relative;
 }
 
-#store:hover, #gmail:hover, #about:hover, #images:hover, #adv:hover, #bus:hover, #hsw:hover, #pvc:hover, #tms:hover, #sts:hover{
+.hover-buttons:hover {
     color: grey;
-    
-}
-
-#store {
-    background: transparent;
-    border: transparent;
-    margin: 10px;
-    position: relative;
-    right: 15px;
-}
-
-#about {
-    background: transparent;
-    border: transparent;
-    margin: 10px;
-    
-}
-
-#images {
-    background: transparent;
-    border: transparent;
-    margin: 10px;
 }
 
 #sign-in {
@@ -96,41 +69,8 @@
     border-radius: 5%;
     color: white;
     padding: 5px 15px 5px 15px;
-    ;
 }
 
-#adv {
-    background: transparent;
-    border: transparent;
-    margin: 10px;
-}
-
-#bus {
-    background: transparent;
-    border: transparent;
-    margin: 10px;
-}
-
-#hsw {
-    background: transparent;
-    border: transparent;
-    margin: 10px;
-}
-
-#pvc {
-    background: transparent;
-    border: transparent;
-    margin: 10px;
-}
-
-#tms {
-    background: transparent;
-    border: transparent;
-    margin: 10px;
-}
-
-#sts {
-    background: transparent;
-    border: transparent;
-    margin: 10px;
+#sign-in:hover {
+    color: lightgray;
 }
