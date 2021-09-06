@@ -2,17 +2,14 @@
 
 }
 
-.left-side {
-
-
-}
-
-.right-side {
+.side-2 {
     float: right;
+    margin: 4px;
 }
 
 .logo {
-`   
+    
+
 }
 
 .buttons {
@@ -24,13 +21,88 @@
 }
 
 .b-navbar {
-
+    position: absolute; 
+    bottom: 0;
+    background-color: lightgrey;
+}
+.b-side2 {
+    float: right;
+    margin: 4px;
 }
 
-.left-side2 {
-
+#gmail {
+    background: transparent;
+    border: transparent;
+    margin: 10px;
+    
 }
 
-.right-side2 {
+#store:hover, #gmail:hover, #about:hover, #images:hover, #adv:hover, #bus:hover, #hsw:hover, #pvc:hover, #tms:hover, #sts:hover{
+    color: grey;
+    
+}
 
+#store {
+    background: transparent;
+    border: transparent;
+    margin: 10px;
+}
+
+#about {
+    background: transparent;
+    border: transparent;
+    margin: 10px;
+    
+}
+
+#images {
+    background: transparent;
+    border: transparent;
+    margin: 10px;
+}
+
+#sign-in {
+    background-color: cornflowerblue;
+    border: transparent;
+    margin: 6px 2px;
+    border-radius: 5%;
+    color: white;
+    padding: 5px 15px 5px 15px;
+    ;
+}
+
+#adv {
+    background: transparent;
+    border: transparent;
+    margin: 10px;
+}
+
+#bus {
+    background: transparent;
+    border: transparent;
+    margin: 10px;
+}
+
+#hsw {
+    background: transparent;
+    border: transparent;
+    margin: 10px;
+}
+
+#pvc {
+    background: transparent;
+    border: transparent;
+    margin: 10px;
+}
+
+#tms {
+    background: transparent;
+    border: transparent;
+    margin: 10px;
+}
+
+#sts {
+    background: transparent;
+    border: transparent;
+    margin: 10px;
 }
