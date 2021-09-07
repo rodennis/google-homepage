@@ -41,9 +41,9 @@
 }
 
 .b-navbar  {
-    position: absolute; 
-    bottom: 0;
+    position: relative; 
     background-color: lightgrey;
+    top: 420px;
 }
 
 .button1:hover, .button2:hover {
@@ -73,5 +73,5 @@
 }
 
 #right-side {
-
+    float: right;
 }
