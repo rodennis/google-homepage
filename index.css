@@ -1,7 +1,3 @@
-.navbar {
-
-}
-
 .side-2 {
     float: right;
     margin: 4px;
@@ -44,14 +40,15 @@
     border-color: lightgray;
 }
 
-.b-navbar {
+.b-navbar  {
     position: absolute; 
     bottom: 0;
     background-color: lightgrey;
-    
-    
 }
 
+.button1:hover, .button2:hover {
+    color: grey;
+}
 .hover-buttons {
     background: transparent;
     border: transparent;
@@ -73,4 +70,8 @@
 
 #sign-in:hover {
     color: lightgray;
+}
+
+#right-side {
+
 }
